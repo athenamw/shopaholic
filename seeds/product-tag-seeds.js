@@ -1,4 +1,4 @@
-const { ProductTag } = require('../models');
+const { ProductTag } = require("../models");
 
 const productTagData = [
   {
@@ -38,7 +38,7 @@ const productTagData = [
     tag_id: 1,
   },
   {
-    product_id: 4,1
+    product_id: 4,
     tag_id: 2,
   },
   {
